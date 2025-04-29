@@ -1,3 +1,5 @@
+![Project Logo](image.png)
+
 # Economic Uncertainty Index
 
 **THE FIRST ECONOMIC COUNTRY-SPECIFIC UNCERTAINTY INDEX**
