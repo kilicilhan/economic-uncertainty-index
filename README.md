@@ -17,6 +17,8 @@ This project has been published in the prestigious journal:
 Empirical Economics, 67, 1649–1689.  
 DOI: [10.1007/s00181-024-02594-z](https://doi.org/10.1007/s00181-024-02594-z)
 
+For the full technical details, please refer to the publication or the website.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).  
