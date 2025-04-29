@@ -1,5 +1,7 @@
 # Economic Uncertainty Index
 
+**THE FIRST ECONOMIC COUNTRY-SPECIFIC UNCERTAINTY INDEX**
+
 An academic project to measure economic uncertainty —  
 **Economic Country-Specific Uncertainty (ECSU) Index**
 
